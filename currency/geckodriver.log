@@ -1,0 +1,765 @@
+1659362960862	geckodriver	INFO	Listening on 127.0.0.1:60032
+1659362963894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilerfDob5"
+1659362964310	Marionette	INFO	Marionette enabled
+1659362964315	Marionette	INFO	Listening on port 60049
+WebDriver BiDi listening on ws://localhost:60033
+Read port: 60049
+1659362964505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilerfDob5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60033/devtools/browser/28cb580f-5771-407f-96fc-490916f97928
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 259 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 6933 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 3961 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 5016 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 567 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 3092 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 4606 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.insurads.com/bootstrap/CTOHUVRM.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 5247 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.insurads.com/bootstrap/CTOHUVRM.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 2618 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.insurads.com/bootstrap/CTOHUVRM.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 5224 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.insurads.com/bootstrap/CTOHUVRM.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 2960 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.insurads.com/bootstrap/CTOHUVRM.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 2545 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.insurads.com/bootstrap/CTOHUVRM.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 2206 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.insurads.com/bootstrap/CTOHUVRM.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 2203 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.insurads.com/bootstrap/CTOHUVRM.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 4106 > eval line 1 > eval line 1 > eval, line 1JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line1659365199157	Marionette	INFO	Stopped listening on port 60049
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resour1659365199885	Marionette	INFO	Stopped listening on port 53355
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 568 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659365200570	Marionette	INFO	Stopped listening on port 65085
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+lock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 4198 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 3381 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659365201234	Marionette	INFO	Stopped listening on port 49596
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 4867 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659365067227	Marionette	INFO	Stopped listening on port 57914
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1659365155070	geckodriver	INFO	Listening on 127.0.0.1:57967
+1659365158105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilek7GZvr"
+1659365158714	Marionette	INFO	Marionette enabled
+1659365158720	Marionette	INFO	Listening on port 58040
+WebDriver BiDi listening on ws://localhost:57969
+Read port: 58040
+1659365158886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilek7GZvr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57969/devtools/browser/2a42f305-43a9-42fe-8175-f2c97cd964e2
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 7365 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659365172940	Marionette	INFO	Stopped listening on port 58040
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1659365252177	geckodriver	INFO	Listening on 127.0.0.1:58520
+1659365255226	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileUmA3p7"
+1659365255611	Marionette	INFO	Marionette enabled
+1659365255615	Marionette	INFO	Listening on port 58533
+WebDriver BiDi listening on ws://localhost:58521
+Read port: 58533
+1659365255783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileUmA3p7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58521/devtools/browser/d8b8962b-f597-479f-ab9c-cb089db165fb
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 3873 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659365273563	Marionette	INFO	Stopped listening on port 58533
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1659365327281	geckodriver	INFO	Listening on 127.0.0.1:57607
+1659365330328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57608" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileI0dcA5"
+1659365330703	Marionette	INFO	Marionette enabled
+1659365330707	Marionette	INFO	Listening on port 57619
+WebDriver BiDi listening on ws://localhost:57608
+Read port: 57619
+1659365330874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileI0dcA5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57608/devtools/browser/011815d2-a75e-4b66-bc16-ac753d746391
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 6310 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659365340135	Marionette	INFO	Stopped listening on port 57619
+[Parent 1600, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofileI0dcA5\protections.sqlite
+[Parent 1600, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659365760200	geckodriver	INFO	Listening on 127.0.0.1:57997
+1659365763266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57998" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilej5uKVl"
+1659365763695	Marionette	INFO	Marionette enabled
+1659365763699	Marionette	INFO	Listening on port 58010
+WebDriver BiDi listening on ws://localhost:57998
+Read port: 58010
+1659365763868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilej5uKVl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57998/devtools/browser/a0320137-b8a6-40d1-a7ac-123c4e1e84aa
+1659365765779	Marionette	INFO	Stopped listening on port 58010
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659366522985	geckodriver	INFO	Listening on 127.0.0.1:58434
+1659366526037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilemfzzle"
+1659366526412	Marionette	INFO	Marionette enabled
+1659366526417	Marionette	INFO	Listening on port 58446
+WebDriver BiDi listening on ws://localhost:58435
+Read port: 58446
+1659366526586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilemfzzle\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58435/devtools/browser/44fd4b9e-9bb5-40af-9a97-d298aa99c9d8
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 1146 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 7045 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 3600 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 6663 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 322 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 5352 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 7476 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 713 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 1248 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 332: TypeError: WebEmarsysSdk.subscribe is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 6032 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1659443000668	Marionette	INFO	Stopped listening on port 58446
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659465022231	geckodriver	INFO	Listening on 127.0.0.1:63356
+1659465025346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileQ1a6G6"
+1659465027913	Marionette	INFO	Marionette enabled
+1659465027923	Marionette	INFO	Listening on port 63381
+WebDriver BiDi listening on ws://localhost:63357
+Read port: 63381
+1659465028323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileQ1a6G6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63357/devtools/browser/495f9fe2-6b4a-498d-98b7-9c7e5ca9278e
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+1659465035802	Marionette	INFO	Stopped listening on port 63381
+[Parent 18076, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofileQ1a6G6\protections.sqlite
+1659465037602	geckodriver	INFO	Listening on 127.0.0.1:63532
+1659465040633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileUzoLFd"
+1659465041512	Marionette	INFO	Marionette enabled
+1659465041526	Marionette	INFO	Listening on port 63589
+WebDriver BiDi listening on ws://localhost:63533
+Read port: 63589
+1659465041856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileUzoLFd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63533/devtools/browser/3650847b-08ca-496c-a440-5fe152c33122
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 414: ReferenceError: CriteoAdblock is not defined
+1659465047690	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659465049687	Marionette	INFO	Stopped listening on port 63589
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofileUzoLFd\protections.sqlite
+1659469259596	geckodriver	INFO	Listening on 127.0.0.1:50226
+1659469262625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileOReeil"
+1659469263424	Marionette	INFO	Marionette enabled
+1659469263432	Marionette	INFO	Listening on port 50238
+WebDriver BiDi listening on ws://localhost:50227
+Read port: 50238
+1659469263632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileOReeil\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50227/devtools/browser/713b8d0c-833a-496c-9143-a31b3171124b
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+1659469268199	Marionette	INFO	Stopped listening on port 50238
+1659469269212	geckodriver	INFO	Listening on 127.0.0.1:50333
+1659469272278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50334" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileFFnEND"
+1659469272661	Marionette	INFO	Marionette enabled
+1659469272665	Marionette	INFO	Listening on port 50344
+WebDriver BiDi listening on ws://localhost:50334
+Read port: 50344
+1659469272834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileFFnEND\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50334/devtools/browser/0bfb13ce-d30d-4b24-87da-8c02c196c8cc
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 414: ReferenceError: CriteoAdblock is not defined
+1659469275971	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659469277425	Marionette	INFO	Stopped listening on port 50344
+1659469343477	geckodriver	INFO	Listening on 127.0.0.1:50450
+1659469346515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileXlhKh9"
+1659469346919	Marionette	INFO	Marionette enabled
+1659469346924	Marionette	INFO	Listening on port 50461
+WebDriver BiDi listening on ws://localhost:50451
+Read port: 50461
+1659469347098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileXlhKh9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50451/devtools/browser/c7488181-799b-42fb-a9e0-2b6e1dbe6ff3
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+1659469351658	Marionette	INFO	Stopped listening on port 50461
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofileXlhKh9\protections.sqlite
+1659469352709	geckodriver	INFO	Listening on 127.0.0.1:50547
+1659469355736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50548" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileMPoBnu"
+1659469356168	Marionette	INFO	Marionette enabled
+1659469356173	Marionette	INFO	Listening on port 50557
+WebDriver BiDi listening on ws://localhost:50548
+Read port: 50557
+1659469356347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileMPoBnu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50548/devtools/browser/c996a6d0-d78f-47b3-8e00-fa0ba4e17e57
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 414: ReferenceError: CriteoAdblock is not defined
+1659469359271	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659469360937	Marionette	INFO	Stopped listening on port 50557
+[Parent 17420, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659469764579	geckodriver	INFO	Listening on 127.0.0.1:50875
+1659469767627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50876" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilewe7Bj9"
+*** You are running in headless mode.
+1659469768083	Marionette	INFO	Marionette enabled
+1659469768090	Marionette	INFO	Listening on port 50886
+WebDriver BiDi listening on ws://localhost:50876
+Read port: 50886
+1659469768358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilewe7Bj9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50876/devtools/browser/d8c2095a-9a27-4658-ab53-8554b3d5855a
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+1659469773252	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659469773999	Marionette	INFO	Stopped listening on port 50886
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofilewe7Bj9\protections.sqlite
+1659469775036	geckodriver	INFO	Listening on 127.0.0.1:50992
+1659469778074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50993" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileLiyq48"
+*** You are running in headless mode.
+1659469778495	Marionette	INFO	Marionette enabled
+1659469778499	Marionette	INFO	Listening on port 51002
+WebDriver BiDi listening on ws://localhost:50993
+Read port: 51002
+1659469778619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileLiyq48\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50993/devtools/browser/a626ef12-19ec-4a35-aa13-8392660bee40
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 414: ReferenceError: CriteoAdblock is not defined
+1659469780945	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659469782316	Marionette	INFO	Stopped listening on port 51002
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1659469949587	geckodriver	INFO	Listening on 127.0.0.1:51110
+1659469952633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileWEBIc2"
+*** You are running in headless mode.
+1659469953059	Marionette	INFO	Marionette enabled
+1659469953064	Marionette	INFO	Listening on port 51124
+WebDriver BiDi listening on ws://localhost:51111
+Read port: 51124
+1659469953186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileWEBIc2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51111/devtools/browser/827957dd-b4fb-4abb-9947-fa45fc9caa04
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+1659469957710	Marionette	INFO	Stopped listening on port 51124
+1659469958614	geckodriver	INFO	Listening on 127.0.0.1:51220
+1659469961630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilevgXmkd"
+*** You are running in headless mode.
+1659469962044	Marionette	INFO	Marionette enabled
+1659469962048	Marionette	INFO	Listening on port 51230
+WebDriver BiDi listening on ws://localhost:51221
+Read port: 51230
+1659469962177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilevgXmkd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51221/devtools/browser/8fa0dbda-65ea-4aef-a3f3-1d39f26be74c
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 414: ReferenceError: CriteoAdblock is not defined
+1659469964782	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://js.duhnet.tv/q/s/player/html5/1.21.7/assets/js/docs.min.js, line 1: TypeError: document.getElementById(...) is null
+1659469969960	Marionette	INFO	Stopped listening on port 51230
+[Parent 20516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1659470158872	geckodriver	INFO	Listening on 127.0.0.1:51513
+1659470161937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileszAxF0"
+*** You are running in headless mode.
+1659470162576	Marionette	INFO	Marionette enabled
+1659470162580	Marionette	INFO	Listening on port 51524
+WebDriver BiDi listening on ws://localhost:51514
+Read port: 51524
+1659470162692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileszAxF0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51514/devtools/browser/438ed578-c0d9-4347-9aae-a69f6da4a7dd
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+1659470166553	Marionette	INFO	Stopped listening on port 51524
+1659470167620	geckodriver	INFO	Listening on 127.0.0.1:51605
+1659470170685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51606" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilePHhUOV"
+*** You are running in headless mode.
+1659470171269	Marionette	INFO	Marionette enabled
+1659470171276	Marionette	INFO	Listening on port 51627
+WebDriver BiDi listening on ws://localhost:51606
+Read port: 51627
+1659470171449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilePHhUOV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51606/devtools/browser/01b51467-ed59-4bc0-b3f5-8d989ae1cb6f
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 414: ReferenceError: CriteoAdblock is not defined
+1659470174009	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659470175634	Marionette	INFO	Stopped listening on port 51627
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1659470304417	geckodriver	INFO	Listening on 127.0.0.1:51756
+1659470307457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileXmvZVF"
+*** You are running in headless mode.
+1659470307892	Marionette	INFO	Marionette enabled
+1659470307897	Marionette	INFO	Listening on port 51768
+WebDriver BiDi listening on ws://localhost:51757
+Read port: 51768
+1659470308231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileXmvZVF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51757/devtools/browser/93706dd8-78e3-4b90-8209-90e9e1b88e14
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+1659470316199	Marionette	INFO	Stopped listening on port 51768
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofileXmvZVF\protections.sqlite
+1659470317263	geckodriver	INFO	Listening on 127.0.0.1:51884
+1659470320301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileAhv3nZ"
+*** You are running in headless mode.
+1659470320761	Marionette	INFO	Marionette enabled
+1659470320768	Marionette	INFO	Listening on port 51894
+WebDriver BiDi listening on ws://localhost:51885
+Read port: 51894
+1659470320944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileAhv3nZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51885/devtools/browser/ad8592d2-f41f-43f1-a7db-43172a3059cb
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 414: ReferenceError: CriteoAdblock is not defined
+1659470323109	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659470324655	Marionette	INFO	Stopped listening on port 51894
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofileAhv3nZ\protections.sqlite
+1659470353444	geckodriver	INFO	Listening on 127.0.0.1:51996
+1659470356465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilezz0Wte"
+*** You are running in headless mode.
+1659470356885	Marionette	INFO	Marionette enabled
+1659470356894	Marionette	INFO	Listening on port 52008
+WebDriver BiDi listening on ws://localhost:51997
+Read port: 52008
+1659470357038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilezz0Wte\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51997/devtools/browser/ed38ce87-6797-4e4f-9efe-9a475aeb483b
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://js.duhnet.tv/q/s/player/html5/1.21.7/assets/js/docs.min.js, line 1: TypeError: document.getElementById(...) is null
+1659470364387	Marionette	INFO	Stopped listening on port 52008
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofilezz0Wte\protections.sqlite
+1659470365609	geckodriver	INFO	Listening on 127.0.0.1:53896
+1659470368644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileeU3ekX"
+*** You are running in headless mode.
+1659470369095	Marionette	INFO	Marionette enabled
+1659470369101	Marionette	INFO	Listening on port 53907
+WebDriver BiDi listening on ws://localhost:53897
+Read port: 53907
+1659470369410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileeU3ekX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53897/devtools/browser/ad03444b-2071-40e6-a03d-3c6fd18721e1
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 414: ReferenceError: CriteoAdblock is not defined
+1659470371379	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659470373090	Marionette	INFO	Stopped listening on port 53907
+[Parent 25440, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofileeU3ekX\protections.sqlite
+1659483851996	geckodriver	INFO	Listening on 127.0.0.1:53338
+1659483855039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofile8Z66Mj"
+*** You are running in headless mode.
+1659483855821	Marionette	INFO	Marionette enabled
+1659483855827	Marionette	INFO	Listening on port 53349
+WebDriver BiDi listening on ws://localhost:53339
+Read port: 53349
+1659483856081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofile8Z66Mj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53339/devtools/browser/1659483859848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53355" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileZlfKuu"
+*** You are running in headless mode.
+1659483860284	Marionette	INFO	Marionette enabled
+1659483860289	Marionette	INFO	Listening on port 53449
+WebDriver BiDi listening on ws://localhost:53355
+Read port: 53449
+1659483860583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebu1659483863764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilezuolxe"
+*** You are running in headless mode.
+1659483864384	Marionette	INFO	Marionette enabled
+1659483864389	Marionette	INFO	Listening on port 53560
+WebDriver BiDi listening on ws://localhost:53456
+Read port: 53559
+1659483864533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilezUZAci\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:5341659483867998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53566" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileskxuFs"
+*** You are running in headless 1659483868691	Marionette	INFO	Stopped listening on port 53559
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdowJavaScript error: 1659483869014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileskxuFs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53566/devtools/browser/1659483873035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53753" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofile8eDDXF"
+*** You are running in headless mode.
+1659483873441	Marionette	INFO	Marionette enabled
+1659483873445	Marionette	INFO	Listening on port 53843
+WebDriver BiDi listening on ws://localhost:53753
+Read port: 53843
+1659483873560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofile8eDDXF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53753/devtools/browser/768f3145-bd76-44b2-8a80-1ccd0f8df98d
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 414: ReferenceError: CriteoAdblock is not defined
+1659483875471	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659483876871	Marionette	INFO	Stopped listening on port 53843
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1659483886893	geckodriver	INFO	Listening on 127.0.0.1:53934
+1659483889944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileCfFKtu"
+*** You are running in headless mode.
+1659483890326	Marionette	INFO	Marionette enabled
+1659483890331	Marionette	INFO	Listening on port 53944
+WebDriver BiDi listening on ws://localhost:53935
+Read port: 53944
+1659483890442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileCfFKtu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53935/devtools/browser/ea3543d4-5334-4c6f-a427-672013ffa2d8
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+1659483893588	Marionette	INFO	Stopped listening on port 53944
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1659483894361	geckodriver	INFO	Listening on 127.0.0.1:54028
+1659483897411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilebBJyos"
+*** You are running in headless mode.
+1659483897777	Marionette	INFO	Marionette enabled
+1659483897782	Marionette	INFO	Listening on port 54038
+WebDriver BiDi listening on ws://localhost:54029
+Read port: 54038
+1659483897905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilebBJyos\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54029/devtools/browser/2ddc803d-a7aa-4414-8bc9-86b388755748
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 414: ReferenceError: CriteoAdblock is not defined
+1659483899858	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://js.duhnet.tv/q/s/player/html5/1.21.7/assets/js/docs.min.js, line 1: TypeError: document.getElementById(...) is null
+1659483904195	Marionette	INFO	Stopped listening on port 54038
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofilebBJyos\protections.sqlite
+1659483963327	geckodriver	INFO	Listening on 127.0.0.1:61811
+1659483966349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61812" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilemwveOE"
+*** You are running in headless mode.
+1659483966919	Marionette	INFO	Marionette enabled
+1659483966925	Marionette	INFO	Listening on port 61830
+WebDriver BiDi listening on ws://localhost:61812
+Read port: 61830
+1659483967189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilemwveOE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61812/devtools/browser/259e6029-6b43-49d6-8fe8-aa93ff517824
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://js.duhnet.tv/q/s/player/html5/1.21.7/assets/js/docs.min.js, line 1: TypeError: document.getElementById(...) is null
+1659483974629	Marionette	INFO	Stopped listening on port 61830
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofilemwveOE\protections.sqlite
+1659483975762	geckodriver	INFO	Listening on 127.0.0.1:61977
+1659483978822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61978" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileVRl0SM"
+*** You are running in headless mode.
+1659483979240	Marionette	INFO	Marionette enabled
+1659483979245	Marionette	INFO	Listening on port 61988
+WebDriver BiDi listening on ws://localhost:61978
+Read port: 61988
+1659483979370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileVRl0SM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61978/devtools/browser/8169affd-e612-4c02-8f35-ad460618abb1
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 414: ReferenceError: CriteoAdblock is not defined
+1659483981397	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659483982782	Marionette	INFO	Stopped listening on port 61988
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1659484032564	geckodriver	INFO	Listening on 127.0.0.1:62080
+1659484035606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileDWSmpL"
+*** You are running in headless mode.
+1659484036011	Marionette	INFO	Marionette enabled
+1659484036016	Marionette	INFO	Listening on port 62092
+WebDriver BiDi listening on ws://localhost:62081
+Read port: 62092
+1659484036155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileDWSmpL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62081/devtools/browser/3bb898e9-e577-463d-afb6-50325108739a
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+1659484040915	Marionette	INFO	Stopped listening on port 62092
+1659484041670	geckodriver	INFO	Listening on 127.0.0.1:62197
+1659484044718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62198" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileyrxSqh"
+*** You are running in headless mode.
+1659484045121	Marionette	INFO	Marionette enabled
+1659484045128	Marionette	INFO	Listening on port 62207
+WebDriver BiDi listening on ws://localhost:62198
+Read port: 62207
+1659484045272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileyrxSqh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62198/devtools/browser/229ebcc4-dd63-4b76-8c7f-a06f39f50bfd
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 414: ReferenceError: CriteoAdblock is not defined
+1659484047253	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659484048659	Marionette	INFO	Stopped listening on port 62207
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofileyrxSqh\protections.sqlite
+1659484357729	geckodriver	INFO	Listening on 127.0.0.1:62352
+1659484360793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileINNNnF"
+*** You are running in headless mode.
+1659484361249	Marionette	INFO	Marionette enabled
+1659484361254	Marionette	INFO	Listening on port 62363
+WebDriver BiDi listening on ws://localhost:62353
+Read port: 62363
+1659484361539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileINNNnF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62353/devtools/browser/1eb9d8b0-cad6-4201-bfac-0922bd6851ef
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+1659484365797	Marionette	INFO	Stopped listening on port 62363
+1659484366888	geckodriver	INFO	Listening on 127.0.0.1:62454
+1659484369932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilec1RG4G"
+*** You are running in headless mode.
+1659484370399	Marionette	INFO	Marionette enabled
+1659484370406	Marionette	INFO	Listening on port 62464
+WebDriver BiDi listening on ws://localhost:62455
+Read port: 62464
+1659484370672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilec1RG4G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62455/devtools/browser/b2924771-2b2e-4d65-b3ed-e3a2735fca17
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 414: ReferenceError: CriteoAdblock is not defined
+1659484372901	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659484374553	Marionette	INFO	Stopped listening on port 62464
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofilec1RG4G\protections.sqlite
+1659484380045	geckodriver	INFO	Listening on 127.0.0.1:62554
+1659484383087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62555" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofile8QBVHc"
+*** You are running in headless mode.
+1659484383519	Marionette	INFO	Marionette enabled
+1659484383525	Marionette	INFO	Listening on port 62564
+Read port: 62564
+WebDriver BiDi listening on ws://localhost:62555
+1659484383635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofile8QBVHc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62555/devtools/browser/83ccc309-717f-4396-812a-e9465bb69ee7
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+1659484388588	Marionette	INFO	Stopped listening on port 62564
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofile8QBVHc\protections.sqlite
+1659484389517	geckodriver	INFO	Listening on 127.0.0.1:62666
+1659484392577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileHM0tm3"
+*** You are running in headless mode.
+1659484393019	Marionette	INFO	Marionette enabled
+1659484393024	Marionette	INFO	Listening on port 62677
+WebDriver BiDi listening on ws://localhost:62667
+Read port: 62677
+1659484393312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileHM0tm3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62667/devtools/browser/bbb29d22-3dc8-4871-9212-cdb2e07beaa6
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 414: ReferenceError: CriteoAdblock is not defined
+1659484395405	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659484396951	Marionette	INFO	Stopped listening on port 62677
+1659484463881	geckodriver	INFO	Listening on 127.0.0.1:62780
+1659484466911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62781" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofile8e6cJ7"
+*** You are running in headless mode.
+1659484467299	Marionette	INFO	Marionette enabled
+1659484467303	Marionette	INFO	Listening on port 62795
+WebDriver BiDi listening on ws://localhost:62781
+Read port: 62795
+1659484467411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofile8e6cJ7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62781/devtools/browser/e77fd20c-b9f0-4077-a77f-93823bcfb37c
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+1659484470944	Marionette	INFO	Stopped listening on port 62795
+1659484471705	geckodriver	INFO	Listening on 127.0.0.1:62889
+1659484474763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62890" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileC2oLBt"
+*** You are running in headless mode.
+1659484475163	Marionette	INFO	Marionette enabled
+1659484475168	Marionette	INFO	Listening on port 62899
+WebDriver BiDi listening on ws://localhost:62890
+Read port: 62899
+1659484475276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileC2oLBt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62890/devtools/browser/d8796d1b-0ccc-418f-9eb5-126dc8c7077e
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 414: ReferenceError: CriteoAdblock is not defined
+1659484477406	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659484478988	Marionette	INFO	Stopped listening on port 62899
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofileC2oLBt\protections.sqlite
+1659484495667	geckodriver	INFO	Listening on 127.0.0.1:62988
+1659484498731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileAG0keh"
+*** You are running in headless mode.
+1659484499125	Marionette	INFO	Marionette enabled
+1659484499130	Marionette	INFO	Listening on port 62998
+WebDriver BiDi listening on ws://localhost:62989
+Read port: 62998
+1659484499238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofileAG0keh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62989/devtools/browser/ddc7f73a-3ab8-418a-8f8b-b29215eda338
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/altin/altin-ons-fiyati/, line 414: ReferenceError: CriteoAdblock is not defined
+1659484502840	Marionette	INFO	Stopped listening on port 62998
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 12272, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofileAG0keh\protections.sqlite
+1659484503718	geckodriver	INFO	Listening on 127.0.0.1:63085
+1659484506798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63086" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilevqn3f3"
+*** You are running in headless mode.
+1659484507191	Marionette	INFO	Marionette enabled
+1659484507197	Marionette	INFO	Listening on port 63095
+WebDriver BiDi listening on ws://localhost:63086
+Read port: 63095
+1659484507303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbilg\\AppData\\Local\\Temp\\rust_mozprofilevqn3f3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63086/devtools/browser/f7531067-9b56-482b-abc8-4360aa60594e
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 404: ReferenceError: CriteoAdblock is not defined
+JavaScript error: https://bigpara.hurriyet.com.tr/doviz/dolar/, line 414: ReferenceError: CriteoAdblock is not defined
+1659484509382	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659484511021	Marionette	INFO	Stopped listening on port 63095
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\bbilg\AppData\Local\Temp\rust_mozprofilevqn3f3\protections.sqlite
